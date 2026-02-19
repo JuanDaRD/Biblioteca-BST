@@ -1,10 +1,10 @@
-# 📚 Sistema de Gestión de Biblioteca BST
+#  Sistema de Gestión de Biblioteca BST
 
 Sistema de gestión de catálogo de biblioteca universitaria implementado con un **Árbol Binario de Búsqueda (BST)** en Java. Permite organizar, buscar, insertar y eliminar libros de forma eficiente usando el apellido del autor como criterio de ordenamiento.
 
 ---
 
-## 🗂️ Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 biblioteca-bst/
@@ -24,14 +24,14 @@ biblioteca-bst/
 
 ---
 
-## ⚙️ Requisitos
+##  Requisitos
 
 - Java JDK 8 o superior
 - Terminal / Símbolo del sistema
 
 ---
 
-## 🚀 Compilación y Ejecución
+##  Compilación y Ejecución
 
 ### 1. Compilar (desde la raíz del proyecto)
 
@@ -55,7 +55,7 @@ java -cp out vista.MenuPrincipal
 
 ---
 
-## 🌳 Diagrama del BST (datos de prueba)
+##  Diagrama del BST (datos de prueba)
 
 Los 8 libros precargados forman la siguiente estructura:
 
@@ -72,7 +72,7 @@ Los 8 libros precargados forman la siguiente estructura:
 
 ---
 
-## 📋 Funcionalidades
+##  Funcionalidades
 
 | # | Función | Descripción |
 |---|---------|-------------|
@@ -94,7 +94,7 @@ Los 8 libros precargados forman la siguiente estructura:
 
 ---
 
-## 📊 Complejidades
+##  Complejidades
 
 | Operación | Promedio | Peor caso |
 |-----------|----------|-----------|
@@ -106,13 +106,13 @@ Los 8 libros precargados forman la siguiente estructura:
 
 ---
 
-## 📸 Capturas de Pantalla
+##  Capturas de Pantalla
 
 *(Agregar capturas tras ejecutar el sistema)*
 
 ---
 
-## 👤 Información del Estudiante
+##  Información del Estudiante
 
 - **Nombre completo:** Juan Rivera
 - **Código:** 1029647349
