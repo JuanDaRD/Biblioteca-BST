@@ -115,6 +115,7 @@ Los 8 libros precargados forman la siguiente estructura:
 ## 👤 Información del Estudiante
 
 - **Nombre completo:** Juan Rivera
+- **Código:** 1029647349
 - **Asignatura:** Estructuras de Datos
 - **Docente:** Julio Silva
 - **Fecha de entrega:** 19/02/2026
